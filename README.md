@@ -1,100 +1,77 @@
-# Hi there 👋, I'm Anushka Varshney
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=anushkkavarshney&label=Profile%20views&color=238636&style=flat" alt="anushkkavarshney" />
+</p>
 
-🎓 **B.Tech (Information Technology) @ IGDTUW (2024–2028)**  
-💻 **Full-Stack Developer | AI & NLP Enthusiast**  
-📍 New Delhi, India  
-📫 anushka017btit24@igdtuw.ac.in  
-🔗 [LinkedIn](https://www.linkedin.com/in/anushkavarshney/) | [GitHub](https://github.com/anushkkavarshney)
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&color=45F700&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Anushka+Varshney!;+Full-Stack+%26+AI+Developer" />
+</h1>
 
----
+<h2 align="center">B.Tech IT Student @ IGDTUW | Full-Stack & AI Enthusiast</h2>
 
-## 🚀 About Me
+<br/>
 
-I’m an IT undergraduate passionate about **building scalable full-stack applications and AI-powered systems**. I enjoy working at the intersection of **web development, NLP, and real-world problem solving**, taking ideas from concept to deployment.
+<div align="center">
 
-I have hands-on experience with the **MERN stack**, REST APIs, authentication systems, and **Transformer-based AI models**, and I actively participate in hackathons, research, and open-source initiatives.
+🌱 Currently exploring **AI/NLP, System Design & Scalable Backends**
 
----
+👨‍💻 Projects include **AI Medical Summarizer, Claims Automation & Mental Health Platform**
 
-## 🧰 Tech Stack
+💬 Ask me about **React, Node.js, FastAPI, NLP, JWT, OAuth**
 
-**Programming Languages:**  
-C++, Python, Java, JavaScript, TypeScript, HTML, CSS, R  
+📫 Reach me 👇
 
-**Frameworks & Technologies:**  
-React.js, Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0  
+</div>
 
-**AI / Data Science:**  
-NLP, HuggingFace Transformers, PyTorch, NumPy, Pandas, Scikit-learn  
+<div align="center"> 
+  <a href="mailto:reachanushka15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=flat-square&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/anushkavarshney/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/anushkkavarshney" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" />
+  </a>
+</div>
 
-**Databases & Cloud:**  
-MongoDB, MongoDB Atlas, MySQL, PostgreSQL, SQLite, Supabase  
+<br/>
 
-**Tools:**  
-Git, GitHub, VS Code, Swagger UI, Jupyter Notebook, Google Colab, LaTeX, Figma, Canva  
+## ⚙️ Languages • Frameworks • Tools
 
----
+<div align="center">
 
-## 💻 Experience
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
-**MERN Stack Developer Intern**  
-*IGDTUW, Delhi | May 2025 – July 2025*  
-- Developed and maintained full-stack MERN applications  
-- Built **10+ RESTful APIs** for scalable backend services  
-- Integrated **AI-powered features and third-party APIs** to enhance performance and UX  
+</div>
 
----
+<br/>
 
-## 🔥 Projects
+## 🐍 Contributions
 
-### 🏥 Medical Report Summarizer (AI + Web App)
-**Tech:** FastAPI, React.js, Python, MongoDB Atlas, HuggingFace (BART), JWT  
-- AI-driven system to summarize **1,000+ word medical reports**  
-- Secure authentication with user-wise data isolation  
-- Reduced repeated AI inference by **40%** via summary reuse  
-🔗 https://github.com/anushkkavarshney/MedRepSumm
+<div align="center">
+  <img src="https://raw.githubusercontent.com/anushkkavarshney/anushkkavarshney/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
-### 🧾 iClaim – AI Claims Automation System
-**Tech:** Node.js, React.js, OCR, ML, Gemini API  
-- Automated claims processing using OCR & ML  
-- Achieved **99% accuracy** and significantly faster approvals  
-🔗 https://github.com/anushkkavarshney/iClaim
+<br/>
 
-### 🧠 MansikSeva – AI Mental Health Companion
-**Tech:** React, TypeScript, Tailwind CSS, Supabase, HuggingFace  
-- Multilingual AI platform with sentiment analysis  
-- Conducted **1,200+ assessments** using PHQ-9 & GAD-7  
-🔗 https://github.com/anushkkavarshney/Mansik-Seva
+## ⚡ GitHub Stats
 
----
-
-## 🏆 Achievements
-
-- 🏅 **Top 10 Finalist – Innovortex 3.0 (National AI Hackathon)**  
-- 🌍 **Google Summer of Code (GSoC) Participant** – Open-source contributor  
-
----
-
-## 🎯 Positions of Responsibility
-
-- **Core Member – Web Dev Team, E-Cell IGDTUW**  
-  → Contributed to the official E-Cell website  
-- **R&D Team – E-Cell IGDTUW**  
-  → Startup research & authored case study on *ReliefLink*  
-
----
-
-## 📈 GitHub Stats
-
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkkavarshney&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkkavarshney&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Exploring
-Advanced AI/NLP, System Design, Scalable Backend Architectures  
-
----
-
-💬 *Always excited to collaborate on impactful tech & AI projects!*
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=anushkkavarshney&theme=react&border_radius=6" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkkavarshney&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkkavarshney&layout=compact&theme=react&border_radius=10" />
+</div>
