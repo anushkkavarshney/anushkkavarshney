@@ -1,84 +1,100 @@
 # Hi there 👋, I'm Anushka Varshney
 
-🎓 **B.Tech (IT) Student | Frontend & Full-Stack Developer | Design Enthusiast**  
+🎓 **B.Tech (Information Technology) @ IGDTUW (2024–2028)**  
+💻 **Full-Stack Developer | AI & NLP Enthusiast**  
 📍 New Delhi, India  
-📫 reachanushka15@gmail.com | [LinkedIn](YOUR_LINKEDIN_LINK) | [GitHub](https://github.com/YOUR_USERNAME)
+📫 anushka017btit24@igdtuw.ac.in  
+🔗 [LinkedIn](https://www.linkedin.com/in/anushkavarshney/) | [GitHub](https://github.com/anushkkavarshney)
 
 ---
 
-## 🧰 Tech Stack & Tools
+## 🚀 About Me
 
-**Languages:**  
-<img align="left" alt="C++" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" />
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-<br/><br/>
+I’m an IT undergraduate passionate about **building scalable full-stack applications and AI-powered systems**. I enjoy working at the intersection of **web development, NLP, and real-world problem solving**, taking ideas from concept to deployment.
 
-**Frameworks & Libraries:**  
-React.js, Node.js, Express.js, Tailwind CSS, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
+I have hands-on experience with the **MERN stack**, REST APIs, authentication systems, and **Transformer-based AI models**, and I actively participate in hackathons, research, and open-source initiatives.
 
-**Database:** MongoDB, SQL  
+---
 
-**Tools & Platforms:** Git, GitHub, VS Code, Canva, Figma, Jupyter Notebook, Google Colab, Tableau  
+## 🧰 Tech Stack
+
+**Programming Languages:**  
+C++, Python, Java, JavaScript, TypeScript, HTML, CSS, R  
+
+**Frameworks & Technologies:**  
+React.js, Node.js, Express.js, FastAPI, REST APIs, JWT, OAuth 2.0  
+
+**AI / Data Science:**  
+NLP, HuggingFace Transformers, PyTorch, NumPy, Pandas, Scikit-learn  
+
+**Databases & Cloud:**  
+MongoDB, MongoDB Atlas, MySQL, PostgreSQL, SQLite, Supabase  
+
+**Tools:**  
+Git, GitHub, VS Code, Swagger UI, Jupyter Notebook, Google Colab, LaTeX, Figma, Canva  
 
 ---
 
 ## 💻 Experience
 
-**IGDTUW – Web Dev & AI Integration Program (Intern, MERN Stack)**  
-*May 2025 – July 2025*  
-- Developed full-stack MERN projects integrating AI features.  
-- Worked on frontend/backend development, API integration, and deployment.  
+**MERN Stack Developer Intern**  
+*IGDTUW, Delhi | May 2025 – July 2025*  
+- Developed and maintained full-stack MERN applications  
+- Built **10+ RESTful APIs** for scalable backend services  
+- Integrated **AI-powered features and third-party APIs** to enhance performance and UX  
 
 ---
 
-## 🚀 Projects
+## 🔥 Projects
 
-- **[EMS Portal](GITHUB_LINK)** – Employee Management System with authentication, CRUD operations, and dashboards.  
-- **[Chrome Dino Game](GITHUB_LINK)** – Classic Dino Game recreated with scoring, obstacle generation, and restart features.  
-- **[Portfolio Website](GITHUB_LINK)** – Personal portfolio built with HTML, CSS, JS; designed in Figma & Canva, deployed on GitHub Pages.  
-- **[BMI Calculator](GITHUB_LINK)** – Real-time BMI categorization with input validation and clean UI.  
-- **ZenGuide (In Progress)** – Peer mentorship & collaborative study platform using Figma & Canva; currently building in HTML, CSS, JS.  
+### 🏥 Medical Report Summarizer (AI + Web App)
+**Tech:** FastAPI, React.js, Python, MongoDB Atlas, HuggingFace (BART), JWT  
+- AI-driven system to summarize **1,000+ word medical reports**  
+- Secure authentication with user-wise data isolation  
+- Reduced repeated AI inference by **40%** via summary reuse  
+🔗 https://github.com/anushkkavarshney/MedRepSumm
+
+### 🧾 iClaim – AI Claims Automation System
+**Tech:** Node.js, React.js, OCR, ML, Gemini API  
+- Automated claims processing using OCR & ML  
+- Achieved **99% accuracy** and significantly faster approvals  
+🔗 https://github.com/anushkkavarshney/iClaim
+
+### 🧠 MansikSeva – AI Mental Health Companion
+**Tech:** React, TypeScript, Tailwind CSS, Supabase, HuggingFace  
+- Multilingual AI platform with sentiment analysis  
+- Conducted **1,200+ assessments** using PHQ-9 & GAD-7  
+🔗 https://github.com/anushkkavarshney/Mansik-Seva
 
 ---
 
-## 🏆 Achievements & Hackathons
+## 🏆 Achievements
 
-- **Google Summer of Code (GSoC)** – Contributed to open-source projects, implemented features, fixed bugs, improved documentation.  
-- **Innovortex 2.0** – Designed IGDTUW Student Corner in Figma & Canva.  
-- **Hack It Up** – Created ZENGUIDE UI/UX project; converting into a web app.  
-- **SheFi Scholar** – Cohort-based program exploring Web3 technologies.  
+- 🏅 **Top 10 Finalist – Innovortex 3.0 (National AI Hackathon)**  
+- 🌍 **Google Summer of Code (GSoC) Participant** – Open-source contributor  
 
 ---
 
-## 🎨 Extracurriculars
+## 🎯 Positions of Responsibility
 
-- **Creative Team, Aarohan Fest** – Designed events & layouts.  
-- **Media Team, Microsoft Student Chapter** – Content & media initiatives.  
-- **Campus Ambassador, E-cell DTU** – Promoted entrepreneurship events.  
-- **R&D Team, E-Cell IGDTUW** – Startup research & ideation (ReliefLink).  
-- **Hack Club IGDTUW & Team Neutron** – Technical sessions, coding events, and community projects.  
+- **Core Member – Web Dev Team, E-Cell IGDTUW**  
+  → Contributed to the official E-Cell website  
+- **R&D Team – E-Cell IGDTUW**  
+  → Startup research & authored case study on *ReliefLink*  
 
 ---
 
 ## 📈 GitHub Stats
-![Anushka's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
+
+![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anushkkavarshney&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anushkkavarshney&layout=compact&theme=radical)
 
 ---
 
-## 🌱 Currently Learning
-TypeScript, Next.js, AI/ML, Cloud & DevOps  
+## 🌱 Currently Exploring
+Advanced AI/NLP, System Design, Scalable Backend Architectures  
 
 ---
 
-## 💬 Fun Fact
-"Code, design, coffee ☕ – repeat!"  
-I love hackathons, memes, and creating **impactful projects**.  
-
----
+💬 *Always excited to collaborate on impactful tech & AI projects!*
 
