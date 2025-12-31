@@ -69,9 +69,10 @@
 ## ⚡ GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=anushkkavarshney&theme=react&border_radius=6" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anushkkavarshney&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkkavarshney&layout=compact&theme=react&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anushkkavarshney&show_icons=true&theme=react&hide_border=true" />
+<br/>
+<img src="https://streak-stats.demolab.com?user=anushkkavarshney&theme=react&hide_border=true" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anushkkavarshney&layout=compact&theme=react&hide_border=true" />
+
 </div>
