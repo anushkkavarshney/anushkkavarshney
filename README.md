@@ -15,7 +15,7 @@
 - 🧠 Exploring **AI/NLP, Agentic Systems, System Design & Scalable Backends**
 - 🩺 Building things like an **AI Medical Report Summarizer**, an **AI-Assisted Insurance Claims Platform**, and a **Tokenized Payment System**
 - 💬 Ask me about **React, Node.js, FastAPI, NLP, JWT, OAuth, Agentic AI**
-- ⚡ Fun fact: Solved **360+ DSA problems** across LeetCode, GFG, CodeChef & Codeforces
+- ⚡ Fun fact: Solved **500+ DSA problems** across LeetCode, GFG, CodeChef & Codeforces
 - 📫 Reach me 👇
 
 <div align="center">
