@@ -11,16 +11,16 @@
 ### 🚀 About Me
 
 - 🎓 B.Tech in **Information Technology** @ **IGDTUW** (CGPA: 8.85) | Batch 2024 – 2028
-- 🤖 Currently working as an **Agentic AI Intern @ Prodigal AI**, building LLM-powered autonomous agents
+- 🤖 Currently working as an **AI Product Research & Development Intern @ Prodigal AI**, building LLM-powered autonomous agents
 - 🧠 Exploring **AI/NLP, Agentic Systems, System Design & Scalable Backends**
-- 🩺 Building things like an **AI Medical Report Summarizer**, an **AI-Assisted Insurance Claims Platform**, and a **Tokenized Payment System**
+- 🩺 Building things like an **AI Medical Report Summarizer**, an **AI-Assisted Insurance Claims Platform**, and a **Trend Radar System**
 - 💬 Ask me about **React, Node.js, FastAPI, NLP, JWT, OAuth, Agentic AI**
 - ⚡ Fun fact: Solved **500+ DSA problems** across LeetCode, GFG, CodeChef & Codeforces
 - 📫 Reach me 👇
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/-anushka017btit24%40igdtuw.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anushka017btit24@igdtuw.ac.in)
+[![Gmail](https://img.shields.io/badge/-reachanushka15%40igdtuw.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reachanushka15@igdtuw.ac.in)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anushkkavarshney)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anushkkavarshney)
 
